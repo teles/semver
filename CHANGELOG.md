@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [v0.4.5] - 2025-05-16
+
+### Bug Fixes
+- resolve
+
+
+
 ## [v0.4.4] - 2025-05-16
 
 ### Bug Fixes
