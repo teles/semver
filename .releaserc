@@ -1,0 +1,28 @@
+# semantic-release configuration
+# This file contains the configuration for the semantic-release tool
+
+# Branch configuration
+BRANCHES="main,master"
+
+# Commit message format
+COMMIT_MESSAGE_FORMAT="^(feat|fix|docs|style|refactor|perf|test|build|ci|chore|revert)(\(.+\))?: .+"
+
+# Version format
+VERSION_FORMAT="v%s"
+
+# Plugins to use
+PLUGINS=(
+    "changelog"
+    "release-notes"    
+)
+
+# Changelog configuration
+CHANGELOG_FILE="CHANGELOG.md"
+CHANGELOG_TITLE="# Changelog"
+
+# Git configuration
+GIT_TAG_FORMAT="v%s"
+GIT_COMMIT_MESSAGE="chore(release): %s" 
+
+# Slack configuration
+SLACK_WEBHOOK_URL="https://hooks.slack.com/services/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"
