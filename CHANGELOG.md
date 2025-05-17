@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [v0.6.0] - 2025-05-17
+
+### Features
+- lalala
+
+
+
 ## [v0.4.5] - 2025-05-16
 
 ### Bug Fixes
