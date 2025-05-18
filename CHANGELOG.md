@@ -1,6 +1,20 @@
 # Changelog
 
 
+## [v9.0.0] - 2025-05-18
+
+### Features
+- add new authentication flow
+- add navbar
+
+### Other Changes
+- add unit tests for parser
+- improve lookup speed
+- simplify route handling
+- update API docs
+
+
+
 ## [v8.0.2] - 2025-05-18
 
 
