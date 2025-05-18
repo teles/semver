@@ -1,6 +1,26 @@
 # Changelog
 
 
+## [v17.1.0] - 2025-05-18
+
+### ⚠️ Breaking Changes
+- **BREAKING CHANGE**: old tokens are no longer accepted; users must log in again. ([40c5181](https://github.com/teles/semver/commit/40c518134a6f06a9d149b70456c7ff11d4047cfb))
+- **BREAKING CHANGE**: old tokens are no longer accepted; users must log in again. ([e561c64](https://github.com/teles/semver/commit/e561c649d4c4dfa68e834714dcaf47cb428b96a2))
+
+### Features
+- add new authentication flow ([a844b15](https://github.com/teles/semver/commit/a844b15113197860b9d525f8ce7201bcc6a2f54f))
+- **ui**: add navbar ([98d9dfd](https://github.com/teles/semver/commit/98d9dfd65fc7c1e023cd7a7f3bfec283403da066))
+- add new authentication flow ([ec30899](https://github.com/teles/semver/commit/ec308996d2dd3127a8d6b3bfde44a5cc4342fe9e))
+- **ui**: add navbar ([4da5ef1](https://github.com/teles/semver/commit/4da5ef1257eabf9b676e27fca9aee4ca88094dd5))
+
+### Bug Fixes
+- **cache** (performance): improve lookup speed ([2f6869c](https://github.com/teles/semver/commit/2f6869c025c65e18b872190129e6096a3a0e3e99))
+- **cache** (performance): improve lookup speed ([857ff9a](https://github.com/teles/semver/commit/857ff9acd49d85972b94aa9a0faadcdc34c13502))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v17.0.0...v17.1.0)
+
+
 ## [v17.0.0] - 2025-05-18
 
 ### ⚠️ Breaking Changes
