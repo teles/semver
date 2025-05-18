@@ -1,6 +1,22 @@
 # Changelog
 
 
+## [v11.0.0] - 2025-05-18
+
+### ⚠️ Breaking Changes
+- **BREAKING CHANGE**: old tokens are no longer accepted; users must log in again. ([77e76a2](https://github.com/teles/semver/commit/77e76a22f1f67c6fef4a6740daad9de9f2d16674))
+
+### Features
+- add new authentication flow ([01bd112](https://github.com/teles/semver/commit/01bd1121c1031a62d655fad00c7c8d05c8c8ccde))
+- **ui**: add navbar ([3177eaf](https://github.com/teles/semver/commit/3177eafbc7d933f83c4ced03f68fb3006d9cbdb3))
+
+### Bug Fixes
+- **cache** (performance): improve lookup speed ([99c90f6](https://github.com/teles/semver/commit/99c90f67b60f33dd4df22a40d290075a1dab9402))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v10.0.0...v11.0.0)
+
+
 ## [v10.0.0] - 2025-05-18
 
 ### ⚠️ Breaking Changes
