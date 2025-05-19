@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [v17.4.2] - 2025-05-19
+
+### Bug Fixes
+- adiciona fix maroto ([f3f34dd](https://github.com/teles/semver/commit/f3f34dda0cdcb5aa3dd7c4b2e93452fd2840542b))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v17.4.1-alpha.4...v17.4.2)
+
+
 ## [v17.4.1] - 2025-05-19
 
 ### Bug Fixes
