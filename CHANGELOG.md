@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [v17.5.0] - 2025-05-19
+
+### Features
+- **teste**: Faz novo teste ([dc40c1a](https://github.com/teles/semver/commit/dc40c1a413be0d05f525db6b3a126d1f76bff804))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v17.4.2...v17.5.0)
+
+
 ## [v17.4.2] - 2025-05-19
 
 ### Bug Fixes
