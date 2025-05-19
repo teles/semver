@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [v17.4.1] - 2025-05-19
+
+### Bug Fixes
+- **escopo**: testando em nova maquina ([3fc5fde](https://github.com/teles/semver/commit/3fc5fdebc336600c42db39b9e348a313adb498c2))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v17.4.0-alpha.2...v17.4.1)
+
+
 ## [v17.4.0] - 2025-05-18
 
 ### ⚠️ Breaking Changes
