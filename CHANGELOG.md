@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [v17.5.1] - 2025-05-20
+
+### Bug Fixes
+- ajusta data ([42ceed3](https://github.com/teles/semver/commit/42ceed30b051a87e00e64a0f8d517f09a7cd00a4))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v17.5.0...v17.5.1)
+
+
 ## [v17.5.0] - 2025-05-19
 
 ### Features
