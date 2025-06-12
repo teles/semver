@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [v17.6.5] - 2025-06-12
+
+### Bug Fixes
+- **teste**: teste do semantic release ([9e25ba9](https://github.com/teles/semver/commit/9e25ba94001e6defb2befd029a8564ca0617fa26))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v17.6.4...v17.6.5)
+
+
 ## [v17.6.4] - 2025-06-12
 
 ### Bug Fixes
