@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [v0.7.3] - 2025-06-12
+
+### Bug Fixes
+- **teste**: resolve tudo ([a64eefa](https://github.com/teles/semver/commit/a64eefaa6ac6095cbf1e0a71b356324be985dc68))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v0.7.2...v0.7.3)
+
+
 ## [v0.7.1] - 2025-06-12
 
 ### Features
