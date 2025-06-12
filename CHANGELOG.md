@@ -1,6 +1,14 @@
 # Changelog
 
 
+## [v0.5.0] - 2025-05-16
+
+### Features
+- adiciona commit vazio
+- adiciona commit vazio
+
+
+
 ## [v0.4.5] - 2025-05-16
 
 ### Bug Fixes
