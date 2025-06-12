@@ -1,6 +1,15 @@
 # Changelog
 
 
+## [v17.6.9] - 2025-06-12
+
+### Bug Fixes
+- **teste**: teste do semantic release ([3adc965](/commit/3adc965a3da97261d81e1464212ce603ece4b6e5))
+
+
+[Full changelog](/compare/v17.6.8...v17.6.9)
+
+
 ## [v17.6.8] - 2025-06-12
 
 ### Bug Fixes
