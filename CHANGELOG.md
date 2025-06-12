@@ -1,6 +1,19 @@
 # Changelog
 
 
+## [v0.7.1] - 2025-06-12
+
+### Features
+- **teste**: Faz novo teste ([fa2f29c](https://github.com/teles/semver/commit/fa2f29c0c62a927596fbd42d5231e6caca5fb452))
+
+### Bug Fixes
+- **teste**: resolve tudo ([51962a6](https://github.com/teles/semver/commit/51962a6d58bba9df8ee54206212837ca43f7cb74))
+- **teste**: resolve tudo ([17391ac](https://github.com/teles/semver/commit/17391ac413f0f51d50d9776b074ca2d8420acd5b))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v0.7.0...v0.7.1)
+
+
 ## [v0.6.0] - 2025-06-12
 
 ### Features
