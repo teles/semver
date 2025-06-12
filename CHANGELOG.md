@@ -1,6 +1,24 @@
 # Changelog
 
 
+## [v0.6.0] - 2025-06-12
+
+### Features
+- **teste**: Faz novo teste ([fa2f29c](https://github.com/teles/semver/commit/fa2f29c0c62a927596fbd42d5231e6caca5fb452))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v0.5.0...v0.6.0)
+
+
+## [v0.6.0] - 2025-06-12
+
+### Features
+- **teste**: Faz novo teste ([fa2f29c](https://github.com/teles/semver/commit/fa2f29c0c62a927596fbd42d5231e6caca5fb452))
+
+
+[Full changelog](https://github.com/teles/semver/compare/v0.5.0...v0.6.0)
+
+
 ## [v0.5.0] - 2025-05-16
 
 ### Features
